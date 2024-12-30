@@ -85,7 +85,7 @@ Core functionalities:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/DeveloperMukesh/Memory-Game
    ```
 2. Navigate to the project directory:
    ```bash
@@ -110,6 +110,7 @@ Core functionalities:
 
 ## 🌟 Screenshots
 
+![sdsfsfdfsdfsd](https://github.com/user-attachments/assets/e2b3fa04-709f-406f-a801-3911f1a6ee10)
 
 ---
 
